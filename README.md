@@ -135,4 +135,4 @@ jupyter notebook dead_heat_analysis.ipynb
 ## 👤 Author
 
 **Your Name**
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+[LinkedIn](https://linkedin.com/in/harshitapulavarti) · [GitHub](https://github.com/panicAtTheCompile)
