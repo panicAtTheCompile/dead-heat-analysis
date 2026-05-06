@@ -134,5 +134,5 @@ jupyter notebook dead_heat_analysis.ipynb
 
 ## 👤 Author
 
-**Your Name**
+**Harshita Pulavarti**
 [LinkedIn](https://linkedin.com/in/harshitapulavarti) · [GitHub](https://github.com/panicAtTheCompile)
